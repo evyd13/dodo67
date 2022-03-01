@@ -1,0 +1,6 @@
+*-backups/
+gerber*/
+
+# .step only in root
+/*.step
+assets/
