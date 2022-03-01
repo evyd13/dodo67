@@ -1,7 +1,7 @@
 # Dodo67 PCB
 
 ## Daughterboard
-!{Doro67 replacement daughterboard PCB](https://i.imgur.com/brmx7tD.png)
+![Doro67 replacement daughterboard PCB](https://i.imgur.com/brmx7tD.png)
 
 Check out the daughterboard under `daughterboard/`.
 
